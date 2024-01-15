@@ -1,0 +1,12 @@
+.newsapi-news-item{
+  border-bottom: 1px dotted #222;
+  padding-bottom: 2em;
+}
+
+.newsapi-news-item h4{
+  margin-bottom: 0.5em;
+}
+
+.newsapi-news-container{
+  max-width: 800px !important;
+}
